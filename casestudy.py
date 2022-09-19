@@ -49,7 +49,7 @@ import numpy as np
 np.random.seed(123)
 
 # Initialize random_walk
-random_walk = [0]
+random_walk = [0] 
 
 # Complete the ___
 for x in range(100) :

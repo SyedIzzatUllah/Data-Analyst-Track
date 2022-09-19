@@ -9,7 +9,7 @@ np.random.seed(123)
 # Generate and print random float
 print(np.random.rand())
 
-#Roll the dice
+#Roll the dice 
 # Import numpy and set seed
 import numpy as np
 np.random.seed(123)

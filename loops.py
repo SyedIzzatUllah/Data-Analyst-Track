@@ -12,7 +12,7 @@ while offset != 0 :
 
 #Add conditionals
 # Initialize offset
-offset = -6
+offset = -6 
 
 # Code the while loop
 while offset != 0 :

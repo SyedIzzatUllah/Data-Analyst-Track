@@ -11,7 +11,7 @@ print(np.random.rand())
 
 #Roll the dice 
 # Import numpy and  set seed
-import numpy as np
+import numpy as np 
 np.random.seed(123)  
 
 # Use randint() to simulate a dice

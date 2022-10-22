@@ -1,7 +1,7 @@
 #Case Study: 
 #Random float
 # Import numpy as np 
-import numpy as np
+import numpy as np 
 
 # Set the seed
 np.random.seed(123)

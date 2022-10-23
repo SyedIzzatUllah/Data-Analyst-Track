@@ -10,7 +10,7 @@ while offset != 0 :
     offset = offset - 1
     print(offset)
 
-#Add conditionals
+#Add conditionals 
 # Initialize offset
 offset = -6  
 
